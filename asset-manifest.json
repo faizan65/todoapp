@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/faizan65/todoapp.git/static/css/main.6759b279.chunk.css",
+    "main.js": "/faizan65/todoapp.git/static/js/main.330e21b5.chunk.js",
+    "main.js.map": "/faizan65/todoapp.git/static/js/main.330e21b5.chunk.js.map",
+    "runtime-main.js": "/faizan65/todoapp.git/static/js/runtime-main.8a6c0bdf.js",
+    "runtime-main.js.map": "/faizan65/todoapp.git/static/js/runtime-main.8a6c0bdf.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/faizan65/todoapp.git/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ce124a64.chunk.js": "/faizan65/todoapp.git/static/js/2.ce124a64.chunk.js",
+    "static/js/2.ce124a64.chunk.js.map": "/faizan65/todoapp.git/static/js/2.ce124a64.chunk.js.map",
+    "static/js/3.102488dd.chunk.js": "/faizan65/todoapp.git/static/js/3.102488dd.chunk.js",
+    "static/js/3.102488dd.chunk.js.map": "/faizan65/todoapp.git/static/js/3.102488dd.chunk.js.map",
+    "index.html": "/faizan65/todoapp.git/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/faizan65/todoapp.git/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.6759b279.chunk.css.map": "/faizan65/todoapp.git/static/css/main.6759b279.chunk.css.map",
+    "static/js/2.ce124a64.chunk.js.LICENSE.txt": "/faizan65/todoapp.git/static/js/2.ce124a64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a6c0bdf.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ce124a64.chunk.js",
+    "static/css/main.6759b279.chunk.css",
+    "static/js/main.330e21b5.chunk.js"
+  ]
+}
